@@ -1,3 +1,7 @@
-an update of simple server. 100 lines of code is better than 15 lines of code. here I have implementer crud operations functionalities It was an exercise from a course called "The Complete Node.js Course" if you are interested in the old version you can see it into the another branch.
+This is no longer express alone. Instead of hardcoded array Here I have used database called mongodb and its object data modeling library called mongoose to save and manipulate data. 
+old and very-old versions of this server are in other branches of this repository. 
+It was an exercise from a course called "The Complete Node.js Course".
 
-განახლება მარტივი სერვერის. 100 კოდის ხაზი 15 კოდის ხაზს ჯობს. აქ მე დავნერგე შექმნა წაკითხვა განახლება წაშლის ოპერაციები. .ეს სავარჯიშო იყო კურსიდან "სრული ნოუდ ჯს კურსი" თუ ძველი ვერსია გაინტერესებს შეგიძლია მეორე ტოტში ნახო.
+ეს მხოლოდ ექსპრესი აღარაა. ნაცვლად "ხელით ჩაწერილი" მასივისა აქ მე გამოვიყენე მონაცემთა ბაზა მანგოდბ  და მისი საგნის მონაცემის მოდელირების ბიბლიოთეკა მანგუსი რომ შემენახა და შემეცვალა მონაცემები. 
+ძველი და ძალიან ძველი ვერსია მოცემული სერვერისა არის ამ საცავის სხვა ტოტებში. 
+ეს სავარჯიშო იყო კურსიდან "სრული ნოუდ ჯს კურსი"
