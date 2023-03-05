@@ -15,12 +15,9 @@ app.use("/", home)
 // "/api/genres" -endpoint
 app.use("/api/genres", genres)
 //
-
-
-
-
-
-
 // the port where actions are taken
 app.listen(3000)
 //
+
+
+
